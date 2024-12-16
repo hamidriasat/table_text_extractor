@@ -1,0 +1,9 @@
+paddlepaddle==2.6.2
+paddleocr==2.9.1
+opencv-python==4.9.0.80
+flask==3.0.0
+ultralytics==8.0.239
+ultralyticsplus==0.1.0
+torch==2.1.1
+paddle2onnx
+onnxruntime
